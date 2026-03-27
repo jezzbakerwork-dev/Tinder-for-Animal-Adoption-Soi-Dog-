@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "./",
+base: "/Tinder-for-Animal-Adoption-Soi-Dog-/",
   plugins: [react()],
   server: {
     host: "127.0.0.1",
