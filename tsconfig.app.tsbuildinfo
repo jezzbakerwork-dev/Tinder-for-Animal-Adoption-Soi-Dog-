@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/progressheader.tsx","./src/components/quizcard.tsx","./src/components/resultcard.tsx","./src/data/quizdata.ts","./src/hooks/useswipegesture.ts","./src/lib/quizresults.test.ts","./src/lib/quizresults.ts","./src/types/quiz.ts"],"version":"5.9.3"}

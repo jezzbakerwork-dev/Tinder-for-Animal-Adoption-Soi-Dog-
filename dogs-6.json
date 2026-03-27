@@ -1,0 +1,140 @@
+[
+  {
+    "id": "kogoli",
+    "name": "Kogoli",
+    "gender": "Male",
+    "size": "Medium",
+    "ageText": "1 year and 2 months",
+    "ageCategory": "Young Adult",
+    "tags": [
+      "Youngster",
+      "Special Needs"
+    ],
+    "hasDisability": true,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Youngster · one-eyed",
+    "bio": "Hit by a car as a tiny pup, Kogoli lost an eye and needed major treatment, but he’s bounced back as an energetic, playful boy who loves adventures around the shelter. He still deserves that first proper home of his own.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2025-11/2025-07-18SS_Kogoli-07_0.jpg?itok=uHbbTwLf",
+    "adoptionPage": "https://www.soidog.org/adopt/kogoli-336",
+    "source": "Soi Dog Foundation"
+  },
+  {
+    "id": "lamu",
+    "name": "Lamu",
+    "gender": "Male",
+    "size": "Medium",
+    "ageText": "8 years and 3 months",
+    "ageCategory": "Senior",
+    "tags": [
+      "Senior",
+      "Special Needs",
+      "Tripod"
+    ],
+    "hasDisability": true,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Senior tripod · shy at first",
+    "bio": "Lamu grew up as a street dog and lost a hind leg in a traffic accident. He adapted brilliantly to life as a tripaw and loves zoomies and rolling in the grass, but he’s still a little cautious with new people and needs a calm, patient home.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2025-11/2021-07-07JE-Lamu-3_0.jpg?itok=_TjfQKXO",
+    "adoptionPage": "https://www.soidog.org/adopt/lamu-342",
+    "source": "Soi Dog Foundation"
+  },
+  {
+    "id": "karajan",
+    "name": "Karajan",
+    "gender": "Female",
+    "size": "Medium",
+    "ageText": "4 years and 2 months",
+    "ageCategory": "Adult",
+    "tags": [
+      "Small Dog",
+      "Unique"
+    ],
+    "hasDisability": false,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Compact, independent girl",
+    "bio": "Karajan is a one-of-a-kind mix – think corgi legs with a long neck and classic Thai ridge. She’s curious and independent, happy to potter about and take everything in, and would suit people who appreciate a quirky, thoughtful companion.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2024-12/image%20%282%29_3.jpg?itok=rnPfQO8B",
+    "adoptionPage": "https://www.soidog.org/adopt/karajan-47",
+    "source": "Soi Dog Foundation"
+  },
+  {
+    "id": "moonlit",
+    "name": "Moonlit",
+    "gender": "Male",
+    "size": "Medium",
+    "ageText": "3 years and 1 month",
+    "ageCategory": "Young Adult",
+    "tags": [
+      "Special Needs",
+      "Tripod"
+    ],
+    "hasDisability": true,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Front-leg injury · confident",
+    "bio": "Moonlit once roamed as an owned dog but lost part of his front leg in a snare trap. After surgery and rehab he’s become a confident, friendly and independent boy who still enjoys exploring – now he just needs a safe home base.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2025-09/2025.3.4NP-Moonlit-8_0.jpg?itok=vP3L9rNz",
+    "adoptionPage": "https://www.soidog.org/adopt/moonlit-305",
+    "source": "Soi Dog Foundation"
+  },
+  {
+    "id": "juju",
+    "name": "Juju",
+    "gender": "Female",
+    "size": "Medium",
+    "ageText": "3 years and 5 months",
+    "ageCategory": "Adult",
+    "tags": [
+      "Shy"
+    ],
+    "hasDisability": false,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Shy underdog",
+    "bio": "Rescued at eight weeks old with a long list of illnesses and injuries, Juju took time to rebuild her confidence. She’s now a sweet, reserved and independent girl who blossoms slowly with people who move gently and let her set the pace.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2024-12/Juju-2_0.jpg?itok=TDhw4L3j",
+    "adoptionPage": "https://www.soidog.org/adopt/juju-38",
+    "source": "Soi Dog Foundation"
+  },
+  {
+    "id": "hilux",
+    "name": "Hilux",
+    "gender": "Female",
+    "size": "Medium",
+    "ageText": "2 years and 4 months",
+    "ageCategory": "Young Adult",
+    "tags": [
+      "Special Needs",
+      "Tripod"
+    ],
+    "hasDisability": true,
+    "compat": {
+      "dogs": "maybe",
+      "cats": "maybe",
+      "kids": "maybe"
+    },
+    "careLabel": "Young tripod · traffic accident survivor",
+    "bio": "Hilux was around eight months old when she was hit by a vehicle and had to have a leg amputated. With help from the behaviour team she’s gone from frightened to much braver, but she’ll still do best with adopters who go slow and build trust.",
+    "photoUrl": "https://soidog.org/sites/default/files/styles/soidog_animal_slider/public/2025-05/2024.10.2NP-Hilux-profile_0.jpg?itok=n82XXsI1",
+    "adoptionPage": "https://www.soidog.org/adopt/hilux-188",
+    "source": "Soi Dog Foundation"
+  }
+]
